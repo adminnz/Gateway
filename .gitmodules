@@ -1,0 +1,3 @@
+[submodule "lib/MimeKit"]
+	path = lib/MimeKit
+	url = git://github.com/jstedfast/MimeKit
